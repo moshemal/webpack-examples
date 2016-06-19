@@ -62,7 +62,7 @@
 
 	'use strict';
 	(function(){
-	  __webpack_require__(2)
+	  __webpack_require__(2);
 	  console.log("vendors/a.js");
 	  console.log("global b from vendors/a: ", b);
 	})();
