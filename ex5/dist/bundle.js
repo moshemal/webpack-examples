@@ -49,7 +49,6 @@
 	 */
 	'use strict';
 	var vendorA = __webpack_require__(1); 
-	var vendorC = __webpack_require__(2);  
 
 	var name = "M1";
 	console.log(name);
@@ -68,7 +67,7 @@
 
 	'use strict';
 	(function(){
-	  console.log("vendors/a.js depend on b");
+	  console.log("vendors/a.js");
 	  console.log("global b from vendors/a: ", b);
 	  console.log("global c from vendors/a: ", c);
 	})();

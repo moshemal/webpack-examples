@@ -3,7 +3,6 @@
  */
 'use strict';
 var vendorA = require('a'); 
-var vendorC = require('vendors/c');  
 
 var name = "M1";
 console.log(name);
