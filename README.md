@@ -1,3 +1,5 @@
+#### NOTE: This project is not ready yet
+
 # webpack-examples
 
 ### Webpack usage and configuration examples:
